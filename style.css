@@ -1,0 +1,489 @@
+body{
+	background-image: url("foto/xo1DOKG.jpg");
+	background-size: cover;
+	}
+
+video{
+	margin-top: -50px;
+	width:540px; 
+	margin-bottom: 20px;
+}
+
+audio{
+	margin-left: 25px;
+	margin-bottom: -15px;
+}
+
+#tulis_postingan{
+	height: 80px;
+	width: 470px;
+	font-size: 20px;
+}
+
+#login{
+	background-color: white;
+	margin-left: 400px;
+	margin-top: 100px;
+	width: 400px;
+	height: 270px;
+	padding-top: 20px;
+	padding-left: 100px;
+	border-radius: 30px;
+}
+
+#register{
+	background-color: white;
+	margin-left: 400px;
+	padding-left: 100px;
+	margin-top: 50px;
+	padding-top: 20px;
+	width: 400px;
+	height: 550px;
+	border-radius: 30px;
+}
+
+input[type=text]{
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=password]{
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#pp{
+	height: 150px;
+	width: 150px;
+}
+
+#judul_postingan{
+	font-size: 20px;
+	height: 30px;	
+	background-image: url("foto/123.jpg");
+	margin-left: -20px;
+	margin-top: -20px;
+	margin-bottom: 10px;
+	color: white;
+	padding-left: 20px;
+	padding-top: 5px;
+}
+
+#hapus{
+	margin-left: 480px;
+	margin-top: -800px;
+		background-image: url("foto/123.jpg");
+		color: white;
+		border: none;
+		border-radius: 50px;
+}
+
+
+#hapus_komen{
+		background-image: url("foto/123.jpg");
+		color: white;
+		border: none;
+		margin-left: 480px;
+		margin-top: -50px;
+		border-radius: 50px;
+}
+#logo{
+	font-family: Calibri;
+	color: white;
+	font-size: 35px;
+	margin-left: 30px;
+
+}
+
+#fs{
+	color: white;
+	  	-webkit-text-stroke: 1px black;
+}
+
+#search{
+margin-left: 340px;
+margin-top: -30px;
+}
+
+a:link{
+	  text-decoration: none;
+  	color: darkblue;
+}
+
+a:visited {
+  text-decoration: none;
+  	-webkit-text-stroke: 1px black;
+  	color: darkblue;
+}
+
+img {
+	border: solid 1px purple;
+}
+
+#cari{
+	width: 400px;
+	height: 25px;
+	margin-top: 20px;
+	border: solid 1px black;
+}
+
+#hasil_cari{
+	background-color: white;
+	width: 600px;
+	width: auto;
+	border: solid 1px grey;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+}
+
+#cari2{
+	width: 500px;
+	height: 25px;
+	margin-left: 310px;
+	margin-top: -50px;
+}
+
+#halaman_navigasi{
+	margin-left: 1000px;
+}
+
+#pembesar{
+	margin-left: 20px;
+}
+
+#tombol_navigasi{
+	background-color: white;
+	border: none;
+	height: 25px;
+	width: 100px;
+	margin-top: -3px;
+
+}
+
+#tombol_navigasi_samping{
+	background-image: url("foto/123.jpg");
+	color: white;
+	border-radius: 5px;
+	border: none;
+	height: 30px;
+	margin-left: -30px;
+	width: 260px;
+
+}
+
+#button_kecil{
+	background-image: url("foto/123.jpg");
+	color: white;
+	border-radius: 5px;
+	border: none;
+	height: 30px;
+	width: 70px;
+
+}
+
+#visit{
+		background-image: url("foto/123.jpg");
+	color: white;
+	border-radius: 5px;
+	border: none;
+	height: 30px;
+	width: 70px;
+	float: right;
+	margin-top: -10px;
+	margin-right: 10px;
+}
+
+#search_alamat{
+	color: black;
+	font-size: 18px;
+}
+
+#upload_gambar{
+		background-image: url("foto/123.jpg");
+	color: white;
+	border-radius: 5px;
+	border: none;
+	height: 20px;
+	width: 60px;
+	display: inline-block;
+	padding-left: 10px;
+	padding-top: 3px;
+}
+
+#tombol_navigasi_samping2{
+	background-image: url("foto/123.jpg");
+	color: white;
+	border-radius: 5px;
+	border: none;
+	height: 30px;
+	margin-left: 50px;
+	margin-top: 15px;
+	width: 260px;
+}
+
+
+#buat_postingan {
+	background-color: white;
+	padding-left: 20px;
+	padding-top: 20px;
+	border: solid 1px black;
+	margin-bottom: 20px;
+}
+
+#postingan {
+	background-color: white;
+	padding-left: 20px;
+	padding-top: 20px;
+	border: solid 1px black;
+}
+
+#jeda{
+	height: 20px;
+	opacity: 0;
+}
+
+#p{
+	font-size: 20px;
+	height: 10px;
+}
+
+#nama{
+	font-size: 25px;
+	color: darkblue;
+
+	margin-top : -55px;
+	margin-left: 60px;
+}
+
+#nama0{
+	font-size: 30px;
+	color: darkblue;
+}
+
+#nama_kiri{
+	font-size: 30px;
+	color: white;
+	margin-left: 50px;
+	height: 40px;
+	margin-top: 20px;
+	padding-top: 7px;
+}
+
+#bungkus_nama_kiri{
+	background-image: url("foto/123.jpg");
+	height: 50px;
+	z-index: 9999;
+	margin-left: -50px;
+}
+
+#komentar {
+	height: 10px;
+	width: 490px;
+}
+
+#nama_komen{
+	margin-top: -50px;
+	margin-left: 60px;
+	color: darkblue;
+}
+
+#komen {
+	margin-top: -10px;
+	margin-left: 60px;
+}
+
+#cari_nama{
+	font-size: 25px;
+	color: darkblue;
+
+	margin-top : -70px;
+	margin-left: 120px;
+}
+
+#button_kirim {
+	height: 40px;
+	width: 470px;
+		background-image: url("foto/123.jpg");
+		color: white;
+		border: none;
+}
+
+#button_kirim_story{
+	background-image: url("foto/123.jpg");
+	color: white;
+	border-radius: 5px;
+	border: none;
+	height: 30px;
+	margin-left: -25px;
+	margin-top: 90px;
+	width: 160px;
+}
+
+#foto_profil_postingan {
+	height: 50px;
+	width: 50px;
+	border-radius: 30px;
+}
+
+#foto_postingan{
+	height: 300px;
+}
+
+#foto_postingan_awal{
+	height: 80px;
+	width: 80px;
+	display: inline-block;
+}
+
+#form1{
+
+}
+
+#form2{
+	display: inline-block;
+}
+
+#form3{
+	margin-left: 99px;
+	margin-top: -94px;
+}
+
+#tanggal {
+	color: black;
+	margin-left: 60px;
+	margin-top: -10px;
+}
+
+#atas{
+	background-image: url("foto/123.jpg");
+	height: 50px;
+	width: 110%;
+	position: fixed;
+	z-index:9999;
+	margin-left: -10px;
+	margin-top: -30px;
+	border: solid 1px black;
+}
+
+#kiri{
+	background-color: white;
+	width: 250px;
+	height: 100%;
+	margin-top: 50px;
+	position: fixed;
+	border: solid 1px black;		
+	padding-left: 50px;
+	border-radius: 10px;
+	padding-top: 30px;
+}
+
+#kiri2{
+	background-color: white;
+	width: 250px;
+	height: 72%;
+	margin-top: 70px;
+	position: fixed;
+	border: solid 1px black;		
+	padding-left: 50px;
+	border-radius: 10px;
+	padding-top: 30px;
+}
+
+#tengah {
+	width: 600px;
+	margin-left: 330px;
+	margin-top: 50px;
+	position: relative;
+	display: inline-block;
+}
+
+#kanan{
+	background-color: white;
+	width: 335px;
+	height: 30%;
+	margin-top: 50px;
+	position: fixed;
+	margin-left: 30px;
+	display: inline-block;
+	border: solid 1px black;
+	border-radius: 10px;
+	padding-top: 20px;
+	padding-left: 35px;
+}
+
+
+#kanan2{
+	background-color: white;
+	width: 370px;
+	height: 50%;
+	margin-top: 280px;
+	position: fixed;
+	margin-left: 30px;
+	display: inline-block;
+	border: solid 1px black;
+	border-radius: 10px;
+}
+
+#story{
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+}
+#foto_profil{
+	height: 200px;
+	width: 200px;
+}
+
+#foto_chat{
+	height: 50px;
+	width: 50px;
+}
+
+#chat{
+	margin-top: -20px;
+	margin-left: 20px;
+}
+
+#status{
+	color: purple;
+	margin-top: -50px;
+	margin-left: 60px;
+	height: 35px;
+}
+
+#sponsor{
+	height: 200px;
+	width: 280px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+
+#share {
+	margin-left: 495px;
+	margin-top: -30px;
+}
+
+#gallery{
+	width: 600px;
+	border: solid 1px black;
+}
+
+#explorer{
+	width: 295px;
+	height: 295px;
+	border: solid 1px black;
+}
+
+#caption{
+	color: black;
+	width: 100px;
+	margin-top: -4px;
+	background-color: white;
+}
